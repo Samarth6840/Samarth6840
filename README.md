@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Samarth 👋
 
-<!--
-**Samarth6840/Samarth6840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+I am passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Android Development
+- Competitive Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building useful projects, learning new technologies, and improving my problem-solving skills.
+
+## What I’m Working On
+- Improving my coding skills
+- Building real-world projects
+- Learning modern development tools and frameworks
+
+## Tech Interests
+- AI / ML
+- Frontend & Backend Development
+- Android App Development
+- Data Structures and Algorithms
+
+## Fun Fact
+I like turning ideas into working projects.
